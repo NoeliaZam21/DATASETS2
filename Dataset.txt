@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/mirichoi0218/insurance
+https://www.kaggle.com/datasets/kratos2597/boom-bikes-linear-regression?select=day.csv
